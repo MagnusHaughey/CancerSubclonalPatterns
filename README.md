@@ -9,11 +9,11 @@ Execute a simulation by running:
 ```
 
 where\
-&nbsp; -v &emsp;&emsp verbose flag (optional)\
-&nbsp; -s &emsp;&emsp selective advantage of mutant population\
-&nbsp; -t &emsp;&emsp time of mutation (fraction of final tumour size)\
-&nbsp; -q &emsp;&emsp cell pushing strength\
-&nbsp; -x &emsp;&emsp random seed
+&nbsp; -v &emsp;&emsp; verbose flag (optional)\
+&nbsp; -s &emsp;&emsp; selective advantage of mutant population\
+&nbsp; -t &emsp;&emsp; time of mutation (fraction of final tumour size)\
+&nbsp; -q &emsp;&emsp; cell pushing strength\
+&nbsp; -x &emsp;&emsp; random seed
 
 Plot the final spatial data in cells.csv by running:
 

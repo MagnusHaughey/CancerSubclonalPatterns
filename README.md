@@ -1,8 +1,6 @@
-# Spatial simulations for Haughey et al 2021
+# Spatial simulations for Haughey et al 2021
 
 This repository contains the code for simulating the spatial competition of tumour subclones. The program generates an output file cells.csv containing a list of the (x,y)-coordinates of all cells in the system, and their identity (wild-type or mutated). Tested using GCC v4.2.1 and Python v3.8.5.
-
-# Spatial simulations
 
 Execute a simulation by running:
 

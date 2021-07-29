@@ -139,7 +139,7 @@ void surface_division(Cell ** tumour , int cell_x , int cell_y , int *Ntot , int
 
 
 
-// Define cell division in volumetric growth model as described in Bartek's Nature paper with addition of "Newton 2" cell displacement
+// Define cell division in volumetric growth model as described in "Waclaw, B., et al., Nature 525, 261–264 (2015)" with addition of "Newton 2" cell displacement
 void volumetric_division(Cell ** tumour , int cell_x , int cell_y , int *Ntot , int *Nwt , int *x_b , int *y_b , int radius )
 {
 

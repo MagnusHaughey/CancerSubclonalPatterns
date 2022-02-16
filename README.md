@@ -5,11 +5,11 @@ This repository contains the code for simulating the spatial competition of tumo
 Execute a simulation by running:
 
 ```
-./subClonalMixing [-v] [-s S] [-t T] [-q Q] [-x X]
+./subClonalMixing [-v1] [-s S] [-t T] [-q Q] [-x X]
 ```
 
 where\
-&nbsp; -v &emsp;&emsp; verbose flag (optional)\
+&nbsp; -v1 &emsp;&emsp; verbose flag (optional)\
 &nbsp; -s &emsp;&emsp; selective advantage of mutant population\
 &nbsp; -t &emsp;&emsp; time of mutation (fraction of final tumour size)\
 &nbsp; -q &emsp;&emsp; cell pushing strength\
